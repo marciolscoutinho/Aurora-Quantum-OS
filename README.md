@@ -1,1 +1,1 @@
-# Aurora-Quantum-OS
+# Aurora Quantum OS
